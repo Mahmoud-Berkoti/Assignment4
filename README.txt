@@ -18,7 +18,7 @@ This is a simple Python-based To-Do List Manager application that allows users t
    - Run the application using the command: `docker run -it berk0039/assignment4`.
 
 **Repository URL:**
-[GitHub Repository Link]
+https://github.com/Mahmoud-Berkoti/Assignment4
 
 **Docker Hub URL:**
-[Docker Hub Repository Link]
+https://hub.docker.com/repository/docker/berk0039/assignment4
